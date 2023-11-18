@@ -87,7 +87,7 @@ public:
         }
         num -= (quotient*4);
 
-        /* 10 */
+        /* 1 */
         for (int i=0; i<num; i++) {
             roman.append("I");
         }
