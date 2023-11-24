@@ -17,11 +17,6 @@ public:
             return nullptr;
         }
 
-        // if (cur2 == nullptr) {
-        //     head->next = nullptr;
-        //     return head;
-        // }
-
         while (cur != nullptr && cur2 != nullptr) {
             if (cur2->next != nullptr && cur2->next->next != nullptr) {
                 cur = cur->next;
