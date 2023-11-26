@@ -1,13 +1,15 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map <int, bool> cnt;
-        
-        for (int i=0; i<nums.size(); i++) {
-            if (cnt.count(nums[i]))
+        unordered_map<int, bool> rec;
+
+        for (const int& num: nums) {
+            if (rec.count(num) > 0)
                 return true;
-            cnt[nums[i]] = true;
+            else 
+                rec[num] = true;
         }
+        
         return false;
     }
 };
