@@ -18,7 +18,9 @@ public:
         
         bool ret_lp, ret_lq, ret_rp, ret_rq;
 
-        if (node == m_p) {
+        if (m_find)
+         return {find_p, find_q};
+        else if (node == m_p) {
             m_find_p = true;
             if (m_find_q) {
                 return {true, find_q};
