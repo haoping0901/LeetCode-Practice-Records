@@ -17,8 +17,9 @@ public:
         ListNode *pre = prefix, *cur = head, *peak = head->next;
 
         while (peak) {
+            int val = cur->val;
             if (peak->val == cur->val) {
-                while (peak && peak->val == cur->val) peak = peak->next;
+                while (peak && peak->val == val) peak = peak->next;
                 pre->next = peak;
             } else {
                 pre = cur;
