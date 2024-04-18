@@ -12,7 +12,10 @@ struct ListNode* deleteMiddle(struct ListNode* head) {
         fast = fast->next->next;
         ptr = &(*ptr)->next;
     }
+    
+    struct ListNode *next = *ptr;
     (*ptr) = (*ptr)->next;
+    free(next);
 
     return head;
 }
