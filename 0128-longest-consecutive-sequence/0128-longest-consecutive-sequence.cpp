@@ -8,23 +8,25 @@ public:
             rec[n] = false;
         
         for (int n: nums) {
-            int n_consecutive = 1, check_n = n;
+            if (!rec[n]) {
+                int n_consecutive = 1, check_n = n;
 
-            // check consecutive number before
-            while (rec.count(--check_n) && !rec[check_n]) {
-                rec[check_n] = true;
-                n_consecutive++;
-            }
+                // check consecutive number before
+                while (rec.count(--check_n) && !rec[check_n]) {
+                    rec[check_n] = true;
+                    n_consecutive++;
+                }
 
-            // check consecutive number after
-            check_n = n;
-            while (rec.count(++check_n) && !rec[check_n]) {
-                rec[check_n] = true;
-                n_consecutive++;
+                // check consecutive number after
+                check_n = n;
+                while (rec.count(++check_n) && !rec[check_n]) {
+                    rec[check_n] = true;
+                    n_consecutive++;
+                }
+                
+                ret = max(ret, n_consecutive);
+                rec[n] = true;
             }
-            
-            ret = max(ret, n_consecutive);
-            rec[n] = true;
         }
         
         return ret;
