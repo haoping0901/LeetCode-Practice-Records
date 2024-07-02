@@ -48,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
