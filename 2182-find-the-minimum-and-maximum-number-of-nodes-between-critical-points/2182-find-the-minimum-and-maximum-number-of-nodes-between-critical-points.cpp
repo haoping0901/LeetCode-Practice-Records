@@ -28,12 +28,12 @@ public:
             // max/min critical point
             if (m_node->val > l_node->val && m_node->val > r_node->val
                 || m_node->val < l_node->val && m_node->val < r_node->val) {
+                
                 leftmost_idx = min(leftmost_idx, idx);
 
-                if (rightmost_idx) {
-                    // cout << "idx: " << idx << ", ridx: " << rightmost_idx << endl;
+                if (rightmost_idx) 
                     ret[0] = min(ret[0], idx-rightmost_idx);
-                }
+                
                 rightmost_idx = max(rightmost_idx, idx);
             }
 
@@ -43,7 +43,7 @@ public:
             r_node = r_node->next;
         }
 
-        if (leftmost_idx == 1e5 || leftmost_idx == rightmost_idx) {
+        if (rightmost_idx == 0 || leftmost_idx == rightmost_idx) {
             ret[0] = ret[1] = -1;
             return ret;
         }
