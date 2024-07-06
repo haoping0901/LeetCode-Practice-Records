@@ -53,8 +53,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0172-factorial-trailing-zeroes) |
+| [2645-pass-the-pillow](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2645-pass-the-pillow) |
 ## Linked List
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
