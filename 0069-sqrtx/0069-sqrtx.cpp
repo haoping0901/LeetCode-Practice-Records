@@ -1,12 +1,14 @@
 class Solution {
 public:
     int mySqrt(int x) {
+        // case 0 and 1
+        if (x < 2) return x;
         int base = 2;
 
-        // 先讓 base 每次成長兩倍去找到第一個平方後比 x 大的數字
-        while(static_cast<long long>(base)*base < x) 
+        // First, double the base each time to find the first square 
+        // that is greater than x.
+        while (static_cast<long long>(base)*base < x) 
             base <<= 1;
-        
 
         // binary search
         if (static_cast<long long>(base)*base == x) return base;
