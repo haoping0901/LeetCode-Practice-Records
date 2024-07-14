@@ -15,8 +15,7 @@ public:
                 Combine(candidates, cur_comb, idx);
                 sum_ -= candidates[idx];
                 cur_comb.pop_back();
-            } else 
-                break;
+            } 
         }
     }
 
@@ -29,7 +28,6 @@ public:
         // range for next combination.
         target_ = target, sum_ = 0;
         vector<int> cur_comb;
-        sort(candidates.begin(), candidates.end());
         Combine(candidates, cur_comb, 0);
 
         return ret;
