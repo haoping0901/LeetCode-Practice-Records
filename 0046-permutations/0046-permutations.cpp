@@ -10,9 +10,15 @@ public:
 
         for (int i=0; i<original_size; ++i) {
             int selected_num = candidates.front();
+
+            // Select a candidate and pass the remaining candidates for the 
+            // next permutation.
             candidates.pop_front();
             permuted_nums.push_back(selected_num);
             FindPermutations(candidates, permuted_nums);
+
+            // Put the selected candidate back, as it will be needed again 
+            // when selecting other candidates.
             candidates.push_back(selected_num);
             permuted_nums.pop_back();
         }
