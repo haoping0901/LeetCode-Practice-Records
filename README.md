@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0066-plus-one) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
@@ -91,5 +92,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
