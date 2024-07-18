@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 ## Math
 |  |
 | ------- |
@@ -85,10 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
