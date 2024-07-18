@@ -1,7 +1,7 @@
 class Solution {
 public:
     string countOfAtoms(string formula) {
-        int str_len = formula.length(), vec_idx = 0;
+        int str_len = formula.length();
         vector<pair<string, int>> rec;
         stack<int> parenthesis_rec;
 
@@ -26,11 +26,10 @@ public:
                 --idx; // Adjust the index to be incremented in each iteration.
 
                 rec.push_back({element, count});
-                vec_idx++;
             } else if (formula[idx] == '(') {
                 // right parenthesis
                 // record the index in rec vector by stack
-                parenthesis_rec.push(vec_idx);
+                parenthesis_rec.push(rec.size());
             } else if (formula[idx] == ')') {
                 // left parenthesis
                 // extract the count (if exists)
@@ -43,7 +42,7 @@ public:
 
                 // Multiply all the counts at and after the index recorded on 
                 // the top of the stack by the count.
-                for (int i=vec_idx-1; i>=parenthesis_rec.top(); --i) 
+                for (int i=rec.size()-1; i>=parenthesis_rec.top(); --i) 
                     rec[i].second *= count;
                 
                 parenthesis_rec.pop();
@@ -55,7 +54,7 @@ public:
         string ret, cmp_str = rec[0].first;
 
         // Merge duplicate elements.
-        for (int i=1; i<vec_idx; ++i) {
+        for (int i=1; i<rec.size(); ++i) {
             if (rec[i].first == cmp_str) {
                 rec[i].second += rec[i-1].second;
                 rec[i-1].second = 0;
@@ -64,7 +63,7 @@ public:
         }
 
         // generate the return string
-        for (int i=0; i<vec_idx; ++i) {
+        for (int i=0; i<rec.size(); ++i) {
             if (rec[i].second == 0)
                 continue;
             else if (rec[i].second == 1)
