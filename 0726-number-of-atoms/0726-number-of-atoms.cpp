@@ -27,11 +27,11 @@ public:
 
                 rec.push_back({element, count});
             } else if (formula[idx] == '(') {
-                // right parenthesis
-                // record the index in rec vector by stack
+                // left parenthesis
+                // record the size of rec vector by stack
                 parenthesis_rec.push(rec.size());
             } else if (formula[idx] == ')') {
-                // left parenthesis
+                // right parenthesis
                 // extract the count (if exists)
                 ++idx;
                 int count = 0;
