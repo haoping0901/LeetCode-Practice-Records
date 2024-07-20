@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -119,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
