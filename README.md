@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -102,8 +104,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
