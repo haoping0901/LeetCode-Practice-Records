@@ -11,8 +11,6 @@ class Solution {
 
     bool NextStep(vector<vector<char>>& board, const int& r, const int& c, 
                   int word_idx, vector<vector<bool>>& visited) {
-        bool exist = false;
-
         if (board[r][c] == word_[word_idx]) {
             ++word_idx;
 
@@ -20,27 +18,31 @@ class Solution {
 
             if (!IsBorder(r+1, c) && !visited[r+1][c]) {
                 visited[r+1][c] = true;
-                exist |= NextStep(board, r+1, c, word_idx, visited);
+                if (NextStep(board, r+1, c, word_idx, visited))
+                    return true;
                 visited[r+1][c] = false;
             }
             if (!IsBorder(r-1, c) && !visited[r-1][c]) {
                 visited[r-1][c] = true;
-                exist |= NextStep(board, r-1, c, word_idx, visited);
+                if (NextStep(board, r-1, c, word_idx, visited))
+                    return true;
                 visited[r-1][c] = false;
             }
             if (!IsBorder(r, c-1) && !visited[r][c-1]) {
                 visited[r][c-1] = true;
-                exist |= NextStep(board, r, c-1, word_idx, visited);
+                if (NextStep(board, r, c-1, word_idx, visited))
+                    return true;
                 visited[r][c-1] = false;
             }
             if (!IsBorder(r, c+1) && !visited[r][c+1]) {
                 visited[r][c+1] = true;
-                exist |= NextStep(board, r, c+1, word_idx, visited);
+                if (NextStep(board, r, c+1, word_idx, visited))
+                    return true;
                 visited[r][c+1] = false;
             }
         } 
 
-        return exist;
+        return false;
     }
 public:
     bool exist(vector<vector<char>>& board, string word) {
