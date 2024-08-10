@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0435-non-overlapping-intervals) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0435-non-overlapping-intervals) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0053-maximum-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0435-non-overlapping-intervals) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Divide and Conquer
 |  |
