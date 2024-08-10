@@ -1,25 +1,23 @@
+static inline bool Cmp2EleLt(const vector<int>& a, const vector<int>& b) {
+    return a[1] < b[1];
+}
+
 class Solution {
 public:
-    static bool cmp(const vector<int>& a, const vector<int>& b) {
-        if (a[0] == b[0]) return a[1] < b[1];
-        return a[0] < b[0];
-    }
-
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end(), cmp);
+        // [1, 6], [2, 4], [4, 5]
+        // [2, 4], [4, 5], [1, 6]
 
-        int prev = 0, cnt = 0;
-        for (int cur = 1; cur<intervals.size(); cur++) {
+        // sort intervals by end
+        sort(intervals.begin(), intervals.end(), Cmp2EleLt);
 
-            // check whether the overlap existed
-            if (intervals[cur][0] < intervals[prev][1]) {
-                cnt++;
-
-                // only leave the interval with the smaller end (we've sorted the intervals
-                // , so we can ignore the start)
-                if (intervals[cur][1] < intervals[prev][1]) prev = cur;
-            } else {
-                prev = cur;
+        // Check whether the end of the current interval is greater than the 
+        // start of the next interval.
+        int cnt = 0;
+        for (int idx=0; idx<intervals.size()-1; ++idx) {
+            if (intervals[idx][1] > intervals[idx+1][0]) {
+                intervals[idx+1][1] = intervals[idx][1];
+                ++cnt;
             }
         }
 
