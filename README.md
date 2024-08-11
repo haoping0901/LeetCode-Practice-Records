@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 ## Two Pointers
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0127-word-ladder) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -129,4 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0053-maximum-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
