@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2645-pass-the-pillow](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
 | ------- |
