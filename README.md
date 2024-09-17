@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2645-pass-the-pillow) |
 ## Linked List
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -100,11 +102,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0127-word-ladder) |
+| [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 ## Backtracking
