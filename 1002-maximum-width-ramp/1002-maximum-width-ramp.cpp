@@ -17,7 +17,8 @@ public:
 
                 // Any subsequent numbers whose maximum interval also ends at 
                 // this number will have a smaller interval compared to the 
-                // current number being checked. Therefore, we can safely remove this record.
+                // current number being checked. Therefore, we can safely 
+                // remove this record.
                 st.pop_back();
             }
         }
