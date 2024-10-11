@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0053-maximum-subarray) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
