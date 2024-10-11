@@ -1,28 +1,22 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int nums_len=nums.size();
-        int pin=0, cnt=0;
+        // two pointers
+        // p1: length of the returned nums
+        // p2: the current index being checked
+        auto p1 = nums.begin(), p2 = p1 + 1;
 
-        for (int i=0; i<nums_len; i++) {
-            int cur_cnt = 0;
-
-            while ((pin+1) < (nums_len-cnt)) {
-                if (nums.at(pin) == nums.at(pin+cur_cnt+1)) {
-                    i++;
-                    cur_cnt++;
-                    cnt++;
-                } else {
-                    break;
-                }
+        // iterate through all nums
+        // when the value at p2 differs from p1, record this value at the next 
+        // position of p1, and update p1
+        while (p2 != nums.end()) {
+            if (*p2 != *p1) {
+                ++p1;
+                *p1 = *p2;
             }
-            
-            if (cur_cnt > 0)
-                nums.erase(nums.begin()+(pin+1), nums.begin()+(pin+1)+cur_cnt);
-            
-            pin++;
+            ++p2;
         }
 
-        return (nums_len - cnt);
+        return p1 - nums.begin() + 1;
     }
 };
