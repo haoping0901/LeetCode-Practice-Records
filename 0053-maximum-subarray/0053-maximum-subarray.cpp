@@ -1,17 +1,12 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int ret = nums[0];
-
-        for (int idx=1; idx<nums.size(); ++idx) {
-            // Record whether the sum of the current number and the current 
-            // accumulated total is greater than the current number. 
-            // If it is, it means the search can start from here. 
-            if (nums[idx] + nums[idx-1] > nums[idx])
-                nums[idx] = nums[idx] + nums[idx-1];
-            ret = max(ret, nums[idx]);
+        int max_sum = 0, ret = -10000;
+        for (const int& n: nums) {
+            max_sum = max(max_sum + n, 0);
+            ret = max_sum == 0 ? max(ret, n) : max(ret, max_sum);
         }
-        
+
         return ret;
     }
 };
