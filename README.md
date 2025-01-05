@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -193,5 +195,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2358-number-of-ways-to-split-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
