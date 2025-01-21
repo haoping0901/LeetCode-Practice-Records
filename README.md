@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0127-word-ladder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Simulation
 |  |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [2164-two-best-non-overlapping-events](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
@@ -201,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
