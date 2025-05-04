@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0954-maximum-sum-circular-subarray) |
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
@@ -246,4 +247,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0295-find-median-from-data-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
