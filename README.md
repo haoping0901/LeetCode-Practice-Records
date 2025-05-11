@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0069-sqrtx](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2586-longest-square-streak-in-an-array) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
+| [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2358-number-of-ways-to-split-array) |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2211-k-radius-subarray-averages](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2211-k-radius-subarray-averages) |
