@@ -127,12 +127,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2645-pass-the-pillow) |
 ## Linked List
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Simulation
 |  |
