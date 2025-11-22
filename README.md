@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2645-pass-the-pillow](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2211-k-radius-subarray-averages) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2751-sliding-subarray-beauty) |
