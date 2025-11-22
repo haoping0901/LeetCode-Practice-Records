@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1306-jump-game-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0127-word-ladder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0200-number-of-islands) |
+| [1306-jump-game-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1306-jump-game-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0200-number-of-islands) |
+| [1306-jump-game-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1306-jump-game-iii) |
 ## Union Find
 |  |
 | ------- |
