@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2665-minimum-time-to-repair-cars) |
 | [2751-sliding-subarray-beauty](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2751-sliding-subarray-beauty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Hash Table
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2215-finding-3-digit-even-numbers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2586-longest-square-streak-in-an-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
 | ------- |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-sliding-subarray-beauty](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2751-sliding-subarray-beauty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
