@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2645-pass-the-pillow) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Recursion
