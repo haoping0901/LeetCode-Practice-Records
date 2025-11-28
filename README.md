@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2645-pass-the-pillow](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2645-pass-the-pillow) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
 |  |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
