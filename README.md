@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Stack
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2831-find-the-longest-equal-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2831-find-the-longest-equal-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
