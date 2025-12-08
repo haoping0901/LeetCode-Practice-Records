@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [0817-linked-list-components](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0817-linked-list-components) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-max-consecutive-ones-iii) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
