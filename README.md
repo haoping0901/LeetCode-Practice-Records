@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-k-radius-subarray-averages](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2211-k-radius-subarray-averages) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2215-finding-3-digit-even-numbers) |
 | [2358-number-of-ways-to-split-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2358-number-of-ways-to-split-array) |
+| [2401-longest-nice-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2401-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2586-longest-square-streak-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2665-minimum-time-to-repair-cars) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2401-longest-nice-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2401-longest-nice-subarray) |
 ## Design
 |  |
 | ------- |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2211-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2401-longest-nice-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2401-longest-nice-subarray) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2730-find-the-longest-semi-repetitive-substring) |
