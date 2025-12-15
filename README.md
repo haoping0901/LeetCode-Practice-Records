@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-sliding-subarray-beauty](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2751-sliding-subarray-beauty) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2815-max-pair-sum-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2815-max-pair-sum-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2831-find-the-longest-equal-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2586-longest-square-streak-in-an-array) |
 | [2751-sliding-subarray-beauty](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2751-sliding-subarray-beauty) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2815-max-pair-sum-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2815-max-pair-sum-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2831-find-the-longest-equal-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
