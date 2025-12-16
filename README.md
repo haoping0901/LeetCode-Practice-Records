@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Binary Search
 |  |
 | ------- |
