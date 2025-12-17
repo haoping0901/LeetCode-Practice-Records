@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-linked-list-components](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0817-linked-list-components) |
 | [0954-maximum-sum-circular-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0954-maximum-sum-circular-subarray) |
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1248-count-number-of-nice-subarrays) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [0817-linked-list-components](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0817-linked-list-components) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1512-number-of-good-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
