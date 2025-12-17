@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2831-find-the-longest-equal-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2831-find-the-longest-equal-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2815-max-pair-sum-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2815-max-pair-sum-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2831-find-the-longest-equal-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1814-count-nice-pairs-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Rolling Hash
