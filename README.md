@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1306-jump-game-iii) |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Union Find
 |  |
 | ------- |
@@ -460,4 +462,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
+## Tree
+|  |
+| ------- |
+| [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 <!---LeetCode Topics End-->
