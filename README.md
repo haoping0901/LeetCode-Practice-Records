@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2815-max-pair-sum-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2815-max-pair-sum-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2831-find-the-longest-equal-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2748-number-of-beautiful-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2748-number-of-beautiful-pairs) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
 |  |
@@ -441,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2506-count-pairs-of-similar-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2748-number-of-beautiful-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2748-number-of-beautiful-pairs) |
+| [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
@@ -452,4 +456,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Combinatorics
+|  |
+| ------- |
+| [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
 <!---LeetCode Topics End-->
