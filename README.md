@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3446-sort-matrix-by-diagonals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3446-sort-matrix-by-diagonals) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2586-longest-square-streak-in-an-array) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [3446-sort-matrix-by-diagonals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3446-sort-matrix-by-diagonals) |
 | [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0212-word-search-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3446-sort-matrix-by-diagonals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3446-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
