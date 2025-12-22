@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1306-jump-game-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1310-xor-queries-of-a-subarray) |
 | [1329-sort-the-matrix-diagonally](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1329-sort-the-matrix-diagonally) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1310-xor-queries-of-a-subarray) |
 | [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1310-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2401-longest-nice-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2401-longest-nice-subarray) |
