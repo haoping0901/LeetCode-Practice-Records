@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2506-count-pairs-of-similar-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2586-longest-square-streak-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2665-minimum-time-to-repair-cars) |
 | [2748-number-of-beautiful-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2748-number-of-beautiful-pairs) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-find-the-k-beauty-of-a-number](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2506-count-pairs-of-similar-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2506-count-pairs-of-similar-strings) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2358-number-of-ways-to-split-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3427-sum-of-variable-length-subarrays) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
