@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
