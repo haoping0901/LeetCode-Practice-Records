@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3361-shift-distance-between-two-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3361-shift-distance-between-two-strings) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3446-sort-matrix-by-diagonals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3446-sort-matrix-by-diagonals) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3361-shift-distance-between-two-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3361-shift-distance-between-two-strings) |
 | [3412-find-mirror-score-of-a-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3412-find-mirror-score-of-a-string) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Stack
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2559-count-vowel-strings-in-ranges](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
+| [3361-shift-distance-between-two-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3361-shift-distance-between-two-strings) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3427-sum-of-variable-length-subarrays) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Bit Manipulation
