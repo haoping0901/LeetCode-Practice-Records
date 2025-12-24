@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Hash Table
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3412-find-mirror-score-of-a-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3412-find-mirror-score-of-a-string) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
 | [3361-shift-distance-between-two-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3361-shift-distance-between-two-strings) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Bit Manipulation
 |  |
@@ -392,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2401-longest-nice-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2401-longest-nice-subarray) |
 | [2506-count-pairs-of-similar-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2506-count-pairs-of-similar-strings) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Design
 |  |
 | ------- |
