@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [3026-maximum-good-subarray-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3026-maximum-good-subarray-sum) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2815-max-pair-sum-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2815-max-pair-sum-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2831-find-the-longest-equal-subarray) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3026-maximum-good-subarray-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3026-maximum-good-subarray-sum) |
 | [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2559-count-vowel-strings-in-ranges](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3026-maximum-good-subarray-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3026-maximum-good-subarray-sum) |
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
 | [3361-shift-distance-between-two-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3361-shift-distance-between-two-strings) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3427-sum-of-variable-length-subarrays) |
