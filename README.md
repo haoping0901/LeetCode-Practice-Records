@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1512-number-of-good-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2134-maximize-the-confusion-of-an-exam) |
