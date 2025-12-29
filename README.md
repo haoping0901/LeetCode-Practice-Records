@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2559-count-vowel-strings-in-ranges](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2615-sum-of-distances](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2615-sum-of-distances) |
 | [2665-minimum-time-to-repair-cars](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2665-minimum-time-to-repair-cars) |
 | [2748-number-of-beautiful-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2748-number-of-beautiful-pairs) |
 | [2751-sliding-subarray-beauty](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2751-sliding-subarray-beauty) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2615-sum-of-distances](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2615-sum-of-distances) |
 | [2748-number-of-beautiful-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2748-number-of-beautiful-pairs) |
 | [2751-sliding-subarray-beauty](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2751-sliding-subarray-beauty) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-count-subarrays-with-median-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2488-count-subarrays-with-median-k) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2615-sum-of-distances](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2615-sum-of-distances) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3026-maximum-good-subarray-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3026-maximum-good-subarray-sum) |
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
