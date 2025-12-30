@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3446-sort-matrix-by-diagonals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3446-sort-matrix-by-diagonals) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
+| [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2831-find-the-longest-equal-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2831-find-the-longest-equal-subarray) |
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
+| [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
 ## Sorting
 |  |
 | ------- |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3364-minimum-positive-sum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
+| [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
 ## Depth-First Search
 |  |
 | ------- |
