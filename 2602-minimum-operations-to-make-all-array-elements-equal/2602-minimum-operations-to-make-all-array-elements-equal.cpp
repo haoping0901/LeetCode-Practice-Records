@@ -4,13 +4,13 @@ public:
         int l, m, r;
 
         l = 0;
-        r = nums.size();
-        while (l < r) {
+        r = nums.size() - 1;
+        while (l <= r) {
             m = l + ((r - l) >> 1);
 
             // (l, r]
             if (nums[m] >= target)
-                r = m;
+                r = m - 1;
             else
                 l = m + 1;
         }
