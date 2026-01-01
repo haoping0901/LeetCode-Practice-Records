@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1813-maximum-erasure-value) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1895-largest-magic-square](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1895-largest-magic-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0212-word-search-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1329-sort-the-matrix-diagonally) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1895-largest-magic-square](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1895-largest-magic-square) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3446-sort-matrix-by-diagonals) |
 ## Greedy
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1895-largest-magic-square](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2358-number-of-ways-to-split-array) |
