@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
 |  |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-shift-distance-between-two-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3361-shift-distance-between-two-strings) |
 | [3412-find-mirror-score-of-a-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3412-find-mirror-score-of-a-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Stack
 |  |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Bit Manipulation
 |  |
