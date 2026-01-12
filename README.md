@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1306-jump-game-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1310-xor-queries-of-a-subarray) |
+| [1314-matrix-block-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1329-sort-the-matrix-diagonally) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1329-sort-the-matrix-diagonally) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1177-can-make-palindrome-from-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1177-can-make-palindrome-from-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1310-xor-queries-of-a-subarray) |
+| [1314-matrix-block-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1314-matrix-block-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
