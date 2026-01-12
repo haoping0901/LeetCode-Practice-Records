@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0212-word-search-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0304-range-sum-query-2d-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0502-ipo) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0212-word-search-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0304-range-sum-query-2d-immutable) |
 | [1329-sort-the-matrix-diagonally](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1329-sort-the-matrix-diagonally) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0304-range-sum-query-2d-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-max-consecutive-ones-iii) |
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
@@ -466,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0295-find-median-from-data-stream) |
+| [0304-range-sum-query-2d-immutable](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
 ## Depth-First Search
