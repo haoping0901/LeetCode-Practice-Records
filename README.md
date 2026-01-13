@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1813-maximum-erasure-value) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
 | [1329-sort-the-matrix-diagonally](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1329-sort-the-matrix-diagonally) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2215-finding-3-digit-even-numbers) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1314-matrix-block-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1329-sort-the-matrix-diagonally) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1895-largest-magic-square) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -416,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0502-ipo) |
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2164-two-best-non-overlapping-events) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -434,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1895-largest-magic-square) |
@@ -466,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1177-can-make-palindrome-from-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1177-can-make-palindrome-from-substring) |
 | [1310-xor-queries-of-a-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1310-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2401-longest-nice-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2401-longest-nice-subarray) |
 | [2506-count-pairs-of-similar-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2506-count-pairs-of-similar-strings) |
@@ -496,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Data Stream
 |  |
 | ------- |
