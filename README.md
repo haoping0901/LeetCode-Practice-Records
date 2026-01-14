@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3128-right-triangles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3128-right-triangles) |
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3361-shift-distance-between-two-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3361-shift-distance-between-two-strings) |
 | [3364-minimum-positive-sum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3364-minimum-positive-sum-subarray) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1895-largest-magic-square) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3446-sort-matrix-by-diagonals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3446-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3026-maximum-good-subarray-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3026-maximum-good-subarray-sum) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3361-shift-distance-between-two-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3361-shift-distance-between-two-strings) |
 | [3364-minimum-positive-sum-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
