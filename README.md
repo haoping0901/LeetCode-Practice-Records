@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0502-ipo) |
 | [0817-linked-list-components](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0817-linked-list-components) |
+| [0946-validate-stack-sequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0946-validate-stack-sequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0954-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0946-validate-stack-sequences) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
+| [0946-validate-stack-sequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0946-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
