@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2215-finding-3-digit-even-numbers) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2488-count-subarrays-with-median-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2506-count-pairs-of-similar-strings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2506-count-pairs-of-similar-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2506-count-pairs-of-similar-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3412-find-mirror-score-of-a-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3412-find-mirror-score-of-a-string) |
 ## Backtracking
@@ -399,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
