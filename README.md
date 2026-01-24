@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1544-make-the-string-great](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1544-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 | [2055-plates-between-candles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2055-plates-between-candles) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1544-make-the-string-great](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1544-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2696-minimum-string-length-after-removing-substrings) |
