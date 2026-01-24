@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2645-pass-the-pillow) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3412-find-mirror-score-of-a-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3412-find-mirror-score-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Recursion
 |  |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3361-shift-distance-between-two-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3361-shift-distance-between-two-strings) |
 | [3412-find-mirror-score-of-a-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3412-find-mirror-score-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Stack
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3412-find-mirror-score-of-a-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3412-find-mirror-score-of-a-string) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Backtracking
 |  |
 | ------- |
