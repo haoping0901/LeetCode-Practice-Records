@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1177-can-make-palindrome-from-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1177-can-make-palindrome-from-substring) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0946-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
 | [1006-clumsy-factorial](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1006-clumsy-factorial) |
+| [1021-remove-outermost-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
