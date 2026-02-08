@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1177-can-make-palindrome-from-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1177-can-make-palindrome-from-substring) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1544-make-the-string-great) |
