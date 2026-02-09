@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-make-the-string-great](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2055-plates-between-candles](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2055-plates-between-candles) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-make-the-string-great](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -432,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
