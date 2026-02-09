@@ -324,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1177-can-make-palindrome-from-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1177-can-make-palindrome-from-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1006-clumsy-factorial](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
