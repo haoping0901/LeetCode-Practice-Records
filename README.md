@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3829-design-ride-sharing-system](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3829-design-ride-sharing-system) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Two Pointers
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3829-design-ride-sharing-system](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3829-design-ride-sharing-system) |
 ## String
 |  |
 | ------- |
@@ -546,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1381-design-a-stack-with-increment-operation) |
 | [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
+| [3829-design-ride-sharing-system](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3829-design-ride-sharing-system) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -569,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0295-find-median-from-data-stream) |
+| [3829-design-ride-sharing-system](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3829-design-ride-sharing-system) |
 ## Sliding Window
 |  |
 | ------- |
