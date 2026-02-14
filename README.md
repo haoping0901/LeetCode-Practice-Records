@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3446-sort-matrix-by-diagonals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3446-sort-matrix-by-diagonals) |
+| [3508-implement-router](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3508-implement-router) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
 | [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3412-find-mirror-score-of-a-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3412-find-mirror-score-of-a-string) |
+| [3508-implement-router](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3508-implement-router) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2831-find-the-longest-equal-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2831-find-the-longest-equal-subarray) |
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
+| [3508-implement-router](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3508-implement-router) |
 | [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
 ## Sorting
 |  |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0954-maximum-sum-circular-subarray) |
 | [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3508-implement-router](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3508-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3829-design-ride-sharing-system) |
 ## String
 |  |
@@ -551,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
+| [3508-implement-router](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3508-implement-router) |
 | [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
 | [3829-design-ride-sharing-system](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3829-design-ride-sharing-system) |
 ## Depth-First Search
@@ -661,4 +666,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
+## Ordered Set
+|  |
+| ------- |
+| [3508-implement-router](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3508-implement-router) |
 <!---LeetCode Topics End-->
