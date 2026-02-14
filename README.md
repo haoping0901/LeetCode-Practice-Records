@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1512-number-of-good-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1720-crawler-log-folder) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [0817-linked-list-components](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0817-linked-list-components) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0954-maximum-sum-circular-subarray) |
+| [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3829-design-ride-sharing-system](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3829-design-ride-sharing-system) |
 ## String
@@ -547,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
 | [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
 | [3829-design-ride-sharing-system](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3829-design-ride-sharing-system) |
 ## Depth-First Search
@@ -572,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0295-find-median-from-data-stream) |
+| [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
 | [3829-design-ride-sharing-system](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3829-design-ride-sharing-system) |
 ## Sliding Window
 |  |
@@ -652,4 +657,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
