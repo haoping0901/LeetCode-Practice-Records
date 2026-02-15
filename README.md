@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
+| [1019-next-greater-node-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-max-consecutive-ones-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-max-consecutive-ones-iii) |
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
 | [1177-can-make-palindrome-from-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1177-can-make-palindrome-from-substring) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [0817-linked-list-components](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1019-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1670-design-front-middle-back-queue](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1670-design-front-middle-back-queue) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0946-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
 | [1006-clumsy-factorial](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1006-clumsy-factorial) |
+| [1019-next-greater-node-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -471,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1019-next-greater-node-in-linked-list) |
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
 ## Monotonic Queue
 |  |
