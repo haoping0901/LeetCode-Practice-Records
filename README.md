@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-max-consecutive-ones-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-last-stone-weight) |
 | [1124-longest-well-performing-interval](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1124-longest-well-performing-interval) |
 | [1177-can-make-palindrome-from-substring](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1177-can-make-palindrome-from-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1248-count-number-of-nice-subarrays) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0502-ipo) |
 | [1014-k-closest-points-to-origin](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-last-stone-weight) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2164-two-best-non-overlapping-events) |
