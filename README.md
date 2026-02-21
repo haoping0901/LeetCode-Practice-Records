@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3814-maximum-capacity-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3814-maximum-capacity-within-budget) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Hash Table
 |  |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3814-maximum-capacity-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3814-maximum-capacity-within-budget) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3152-special-array-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3152-special-array-ii) |
 | [3508-implement-router](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3508-implement-router) |
 | [3709-design-exam-scores-tracker](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3709-design-exam-scores-tracker) |
+| [3814-maximum-capacity-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3814-maximum-capacity-within-budget) |
 ## Sorting
 |  |
 | ------- |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3446-sort-matrix-by-diagonals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3446-sort-matrix-by-diagonals) |
 | [3634-minimum-removals-to-balance-array](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3634-minimum-removals-to-balance-array) |
+| [3814-maximum-capacity-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3814-maximum-capacity-within-budget) |
 ## Math
 |  |
 | ------- |
