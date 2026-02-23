@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0304-range-sum-query-2d-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0435-non-overlapping-intervals) |
+| [0456-132-pattern](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0456-132-pattern) |
 | [0502-ipo](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0502-ipo) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0817-linked-list-components](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0817-linked-list-components) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0069-sqrtx](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0456-132-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1321-get-equal-substrings-within-budget](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1321-get-equal-substrings-within-budget) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0224-basic-calculator) |
+| [0456-132-pattern](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0456-132-pattern) |
 | [0726-number-of-atoms](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0726-number-of-atoms) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0856-score-of-parentheses](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0856-score-of-parentheses) |
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0456-132-pattern) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1002-maximum-width-ramp](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1002-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1019-next-greater-node-in-linked-list) |
@@ -684,5 +688,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/0456-132-pattern) |
 | [3508-implement-router](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3508-implement-router) |
 <!---LeetCode Topics End-->
