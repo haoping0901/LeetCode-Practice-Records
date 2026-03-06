@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-count-subarrays-with-median-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2488-count-subarrays-with-median-k) |
 | [2506-count-pairs-of-similar-strings](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2164-two-best-non-overlapping-events) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/haoping0901/LeetCode-Practice-Records/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
